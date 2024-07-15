@@ -1,4 +1,4 @@
-# Pixelated Image Detection and Restoration
+# Pixelated Image Detection and Correction
 
 This repository contains two main projects: 
 
