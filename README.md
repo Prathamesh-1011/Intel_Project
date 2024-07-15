@@ -82,6 +82,17 @@ This script contains the implementation for restoring pixelated images. The proc
 - scikit-image
 - matplotlib
 
+## Team Members
+
+|  Name       | Role                                                         |
+|-------------------|--------------------------------------------------------------|
+| Jagriti Sharma    | Project Lead, Correction Model Development                   |
+| Harshita Agrawal  | Testing and Integration, Correction Model Development        |
+| Aayush Dharpure   | Testing and Integration, Presentation, Detection Model Development |
+| Prathamesh Rokade | Testing, Researcher, Documentation, Detection Model Development |
+
+
+
 ## Installation
 
 To install the required packages, run:
